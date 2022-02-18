@@ -1,0 +1,12 @@
+com/colegio/dto/Asignatura.class
+com/colegio/back/ColegioRepositoryImpl.class
+com/colegio/back/ColegioRepository.class
+com/colegio/ServletInitializer.class
+com/colegio/dto/Profesor.class
+com/colegio/ColegioApplication.class
+com/colegio/service/ColegioController.class
+com/colegio/dto/Colegio.class
+com/colegio/dto/Grado.class
+com/colegio/dto/Dna.class
+com/colegio/dto/Curso.class
+com/colegio/dto/Estudiante.class
