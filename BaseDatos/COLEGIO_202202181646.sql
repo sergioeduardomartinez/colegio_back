@@ -1,0 +1,2 @@
+INSERT INTO COLEGIO.COLEGIO (NOMBRE) VALUES
+	 ('El colegio del Olimpo');
